@@ -1,1 +1,1 @@
-# OOP_Damian_Juht
+# Damian Juht OOP õppeaine ülesannete repositoorium. 2021
